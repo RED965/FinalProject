@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/uno"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/dos"
+        android:icon="@drawable/ic_baseline_location_city_24"
+        android:title="Museums" />
+
+    <item
+        android:id="@+id/tres"
+        android:icon="@drawable/ic_toys_black_24dp"
+        android:title="Activities" />
+
+    <item
+        android:id="@+id/cautro"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings" />
+
+</menu>
